@@ -14638,21 +14638,6 @@
       "loella16"
     ]
   },
-  "Web/API/EffectTiming": {
-    "modified": "2019-03-23T22:28:24.754Z",
-    "contributors": [
-      "SphinxKnight",
-      "HereComesJuju",
-      "rachelnabors"
-    ]
-  },
-  "Web/API/EffectTiming/delay": {
-    "modified": "2019-03-23T22:28:20.379Z",
-    "contributors": [
-      "SphinxKnight",
-      "HereComesJuju"
-    ]
-  },
   "Web/API/Element": {
     "modified": "2020-11-10T21:11:37.745Z",
     "contributors": [
@@ -17980,6 +17965,13 @@
     "modified": "2020-04-20T11:30:29.100Z",
     "contributors": [
       "tristantheb"
+    ]
+  },
+  "Web/API/KeyframeEffect/KeyframeEffect": {
+    "modified": "2019-03-23T22:28:20.379Z",
+    "contributors": [
+      "SphinxKnight",
+      "HereComesJuju"
     ]
   },
   "Web/API/LocalFileSystem": {
@@ -40379,15 +40371,6 @@
       "poum"
     ]
   },
-  "Web/Progressive_web_apps/Responsive/Media_types": {
-    "modified": "2019-03-24T00:11:03.641Z",
-    "contributors": [
-      "teoli",
-      "grandoc",
-      "Verruckt",
-      "BenoitL"
-    ]
-  },
   "Web/Progressive_web_apps/Responsive/responsive_design_building_blocks": {
     "modified": "2019-03-18T20:52:18.105Z",
     "contributors": [
@@ -43173,6 +43156,14 @@
       "Kalwyn"
     ]
   },
+  "conflicting/Web/API/KeyframeEffect/KeyframeEffect": {
+    "modified": "2019-03-23T22:28:24.754Z",
+    "contributors": [
+      "SphinxKnight",
+      "HereComesJuju",
+      "rachelnabors"
+    ]
+  },
   "conflicting/Web/API/MediaTrackConstraints": {
     "modified": "2020-10-15T22:35:00.304Z",
     "contributors": [
@@ -43451,6 +43442,15 @@
     "contributors": [
       "SphinxKnight",
       "xdelatour"
+    ]
+  },
+  "conflicting/Web/CSS/Media_Queries/Using_media_queries": {
+    "modified": "2019-03-24T00:11:03.641Z",
+    "contributors": [
+      "teoli",
+      "grandoc",
+      "Verruckt",
+      "BenoitL"
     ]
   },
   "conflicting/Web/CSS/Mozilla_Extensions": {
