@@ -25447,13 +25447,6 @@
       "FredB"
     ]
   },
-  "Web/CSS/List_of_Proprietary_CSS_Features": {
-    "modified": "2019-04-06T13:18:27.677Z",
-    "contributors": [
-      "SphinxKnight",
-      "xdelatour"
-    ]
-  },
   "Web/CSS/Media_Queries": {
     "modified": "2019-06-03T14:19:49.928Z",
     "contributors": [
@@ -43444,6 +43437,13 @@
     "contributors": [
       "Fredchat",
       "Kyodev"
+    ]
+  },
+  "conflicting/Web/CSS/Reference": {
+    "modified": "2019-04-06T13:18:27.677Z",
+    "contributors": [
+      "SphinxKnight",
+      "xdelatour"
     ]
   },
   "conflicting/Web/CSS/border-collapse": {
